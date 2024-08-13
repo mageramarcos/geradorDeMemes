@@ -45,3 +45,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 # geradorDeMemes
+
+Projeto de um gerador de memes, onde refatorei o projeto que era em javascript para typescript
+Conectado ao back-end (Api)
